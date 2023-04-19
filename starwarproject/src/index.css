@@ -95,12 +95,10 @@ h2{
 
 .link {
   padding: 10px 0;
+  color: #FFE81F;
+  cursor: pointer;
 }
 
-.link a {
-  color: #FFE81F;
-  text-decoration: none;
-}
 
 .truncate {
   display: -webkit-box;
