@@ -28,7 +28,7 @@ export default function App() {
                 <p className="truncate">{film.opening_crawl}</p>
               </div>
             </div>
-            <div className='link'> <a href="#" target="_blank">More Info</a></div>
+            <div className='link'>More Info</div>
           </div>
         ))}
       </div>
