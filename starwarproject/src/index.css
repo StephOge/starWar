@@ -58,7 +58,7 @@ h2{
   box-shadow: 0 0 15px rgba(30, 157, 215, 0.9);
 }
 
-/* .film-wrapper:nth-child(1) {
+.film-wrapper:nth-child(1) {
   background: url(/public/images/bg1.png);
 }
 
@@ -80,7 +80,9 @@ h2{
 
 .film-wrapper:nth-child(6) {
   background: url(/public/images/bg6.png);
-} */
+}
+
+
 
 .film-top {
   border-bottom: 2px solid #8E2E2E;
