@@ -1,18 +1,18 @@
-import React from 'react'
-import { Link } from 'react-router-dom';
+// import React from 'react'
+// import { Link } from 'react-router-dom';
 
-function MovieCard ({ movie }) {
-  return (
-        <div className="movie-card">
-        <h2>{movie.title}</h2>
-        <p>Release Date: {movie.release_date}</p>
-        <p>{movie.opening_crawl}</p>
-        <Link to={`/movie/${movie.episode_id}`}>More info</Link>
-    </div>
-  )
-}
+// function MovieCard ({ movie }) {
+//   return (
+//         <div className="movie-card">
+//         <h2>{movie.title}</h2>
+//         <p>Release Date: {movie.release_date}</p>
+//         <p>{movie.opening_crawl}</p>
+//         <Link to={`/movie/${movie.episode_id}`}>More info</Link>
+//     </div>
+//   )
+// }
 
-export default MovieCard
+// export default MovieCard
 
 
 
